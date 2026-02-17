@@ -24,7 +24,7 @@
 name        : Abhishek Kashyap
 handle      : @abhishekkashyap02
 pronouns    : he/him
-location    : Kattankulathur, Chennai 🇮🇳
+location    : Bengaluru, Karnataka 🇮🇳
 education   : B.Tech — SRM Institute of Science & Technology (May 2025)
 status      : 🟢 Open to Software Developer opportunities
 focus       : Full Stack Development | REST APIs | Database Management
