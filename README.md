@@ -103,15 +103,6 @@ currently   : Sharpening DSA | Exploring System Design | Mastering Full Stack
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=abhishekkashyap02&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
 
 ## 🎯 Current Focus & Goals
 
