@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Abhishek%20Kashyap&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20Problem%20Solver&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d400ff,30:9b00e8,60:0061ff,100:00c9c0&height=200&section=header&text=Abhishek%20Kashyap&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Software%20Developer%20%7C%20Full%20Stack%20%7C%20Salesforce%20Developer&descAlignY=58&descSize=18"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=💻+Building+Scalable+Solutions;🚀+One+Commit+at+a+Time;⚡+Python+%7C+JavaScript+%7C+C%2B%2B;🌐+Full+Stack+%7C+REST+APIs+%7C+AWS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&height=50&lines=💻+Building+Scalable+Solutions;🚀+One+Commit+at+a+Time;⚡+Python+%7C+JavaScript+%7C+C%2B%2B;🌐+Full+Stack+%7C+REST+APIs+%7C+AWS;☁️+Salesforce+%7C+Apex+%7C+LWC)](https://git.io/typing-svg)
 
 <br/>
 
@@ -68,6 +68,15 @@ currently   : Sharpening DSA | Exploring System Design | Mastering Full Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
+**Salesforce**
+
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![SOSL](https://img.shields.io/badge/SOSL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
 **Data & Tools**
 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -113,6 +122,7 @@ currently   : Sharpening DSA | Exploring System Design | Mastering Full Stack
 | DSA & CP | LeetCode daily grind | Crack top product companies |
 | System Design | HLD + LLD patterns | Build scalable architectures |
 | Full Stack | React + Node + REST APIs | Ship production-ready apps |
+| Salesforce | Apex + LWC + Platform Deep Dive | Ace Salesforce certifications |
 
 </div>
 
@@ -138,7 +148,7 @@ currently   : Sharpening DSA | Exploring System Design | Mastering Full Stack
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:d400ff,30:9b00e8,60:0061ff,100:00c9c0&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 ⭐ **If you find my work useful, drop a star on my repos!**
 
