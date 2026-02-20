@@ -28,7 +28,7 @@ location    : Bengaluru, Karnataka 🇮🇳
 education   : B.Tech — SRM Institute of Science & Technology (May 2025)
 status      : 🟢 Open to Software Developer opportunities
 focus       : Full Stack Development | REST APIs | Database Management
-currently   : Sharpening DSA | Exploring System Design | Mastering Full Stack
+currently   : Sharpening DSA | Exploring System Design | Mastering Full Stack | Apex & LWC Deep Dive
 ```
 
 ---
